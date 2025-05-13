@@ -1,67 +1,62 @@
-# Welcome to My GitHub Profile! 👋
-## 👨‍🔬 Ahmed Mokhtar - Bioinformatics Specialist
+# Welcome to My GitHub Profile! 👨‍🔬
+## **Ahmed Mokhtar** – Bioinformatics Specialist & Data Scientist
 
-### 🧬 Bioinformatics | Transcriptomics | Data Science | Cancer Genomics | Deep Learning
-
-I am a bioinformatician with extensive experience in data analysis, focusing on genomic data, transcriptomics, cancer research, and bioinformatics DevOps. My expertise includes RNA-Seq analysis, predictive modeling, spatial transcriptomics, deep learning, and developing reproducible pipelines for high-throughput data analysis using R, Python, Bash, and more.
+I am an experienced bioinformatician with a strong focus on computational biology, cancer genomics, transcriptomics, spatial transcriptomics, and bioinformatics DevOps. My expertise lies in developing advanced data analysis pipelines for high-throughput genomic data, utilizing cutting-edge techniques in RNA-Seq, single-cell analysis, machine learning, and deep learning. I am passionate about leveraging data science to uncover biological insights and contribute to advancements in precision medicine.
 
 ---
 
-## 🔧 Skills & Expertise
+## 🔧 **Core Skills**
 
-- **Programming:** R, Python, Bash
-- **Data Science & Analysis:** Differential Expression, Pathway Enrichment, Clustering, Gene Ontology
-- **Omics Technologies:** RNA-Seq (Single-cell, Bulk), Cancer Genomics, Transcriptomics, Spatial Transcriptomics
-- **Bioinformatics Tools:** Seurat, DESeq2, ggplot2, Monocle3, HISAT2, STAR, FeatureCounts
-- **Machine Learning:** Random Forest, Dimensionality Reduction, Classification, Neural Networks, Deep Learning
-- **Bioinformatics DevOps:** CI/CD Pipelines, Containerization (Docker), Automation, Cloud Computing (AWS, GCP)
-- **Databases:** SQL, MongoDB
-- **Version Control:** Git, GitHub, GitLab
-
----
-
-## 📚 Featured Projects
-
-### 1. [Breast Cancer Transcriptomics Analysis](https://github.com/mokhtar200/Breast-Cancer-Transcriptomics-Analysis)
-Comprehensive analysis pipeline for breast cancer transcriptomic data, including differential gene expression, survival analysis, and biomarker identification.
-
-### 2. [Lung Cancer Single-Cell Transcriptomics](https://github.com/mokhtar200/Lung-Cancer-Single-Cell-Transcriptomics-Analysis)
-Single-cell RNA-seq analysis of lung cancer. Cell-type identification, immune profiling, and gene expression analysis across tumor subtypes.
-
-### 3. [Predictive Modeling for Cancer Microenvironment](https://github.com/mokhtar200/Predictive-Modeling-to-Identify-Potential-Biomarkers-for-Breast-Cancer-Microenvironment)
-Development of predictive models for cancer biomarker discovery using machine learning algorithms applied to cancer transcriptomic data.
-
-### 4. [Immunoprofiling of Cancer via scRNA-Seq](https://github.com/mokhtar200/Immunoprofiling-analysis-of-Breast-Cancer-scRNA-Seq)
-Immune profiling across various breast cancer subtypes using single-cell RNA-seq data. Focused on immune cell landscape and T-cell markers.
-
-### 5. [Trajectory Inference in Cancer Stem Cells](https://github.com/mokhtar200/Cancer-Stem-Cells-Trajectory-Inference-and-Pseudotime-Analysis)
-Pseudotime and trajectory analysis on cancer stem cells using Monocle3. Focused on identifying the stemness signatures in cancer cells.
-
-### 6. [Spatial Transcriptomics of Cancer Tissue](https://github.com/mokhtar200/Spatial-Transcriptomics-Cancer-Tissue)
-Analysis of spatial transcriptomics data to explore gene expression across tissue architecture in cancer samples. Utilized techniques such as spatial mapping and differential expression analysis.
+- **Programming & Scripting Languages**: R, Python, Bash
+- **Data Science & Analysis**: Differential Gene Expression, Pathway Enrichment, Gene Ontology, Clustering, Predictive Modeling
+- **Omics Technologies**: RNA-Seq (Single-cell, Bulk), Spatial Transcriptomics, Cancer Genomics, Multi-Omics Integration
+- **Bioinformatics Tools & Libraries**: Seurat, DESeq2, ggplot2, Monocle3, HISAT2, STAR, FeatureCounts
+- **Machine Learning & Deep Learning**: Random Forest, Classification, Neural Networks, Dimensionality Reduction (PCA, t-SNE, UMAP)
+- **Bioinformatics DevOps**: CI/CD Pipelines, Docker, Kubernetes, Cloud Computing (AWS, GCP), Automation
+- **Databases**: SQL, MongoDB
+- **Version Control & Collaboration**: Git, GitHub, GitLab
 
 ---
 
-## 🌍 Connect with Me
+## 📚 **Highlighted Projects**
 
-- 🔗 **LinkedIn:** [Ahmed Mokhtar](https://www.linkedin.com/in/ahmedmokhtar94)
-- 📧 **Email:** [ahmedmokhtar2800@gmail.com]
-- 🧑‍💻 **GitHub:** [mokhtar200](https://github.com/mokhtar200)
+### 1. [**Cancer Transcriptomics Analysis**](https://github.com/mokhtar200/Breast-Cancer-Transcriptomics-Analysis)
+End-to-end analysis of breast cancer RNA-Seq data to identify key biomarkers and differentially expressed genes. Includes survival analysis and pathway enrichment.
 
----
+### 2. [**Single-Cell RNA-Seq Analysis in Lung Cancer**](https://github.com/mokhtar200/Lung-Cancer-Single-Cell-Transcriptomics-Analysis)
+Comprehensive single-cell analysis of lung cancer samples, including immune profiling, cell-type identification, and tumor microenvironment characterization.
 
-## 📊 GitHub Stats
+### 3. [**Predictive Modeling of Cancer Microenvironment**](https://github.com/mokhtar200/Predictive-Modeling-to-Identify-Potential-Biomarkers-for-Breast-Cancer-Microenvironment)
+Machine learning approach to predict potential biomarkers based on the cancer microenvironment using RNA-Seq data. Focused on immune infiltration and gene expression.
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mokhtar200&show_icons=true&theme=radical)
+### 4. [**Spatial Transcriptomics of Cancer Tissue**](https://github.com/mokhtar200/Spatial-Transcriptomics-Cancer-Tissue)
+Advanced spatial transcriptomics analysis to explore gene expression within the tissue architecture of cancer samples. Utilizes spatial mapping and differential expression analysis techniques.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhtar200&layout=compact&theme=radical)
-
----
-
-## 💼 Collaborations & Open to Opportunities
-
-I'm always open to new collaborations in cancer genomics, transcriptomics, and bioinformatics research. Feel free to reach out if you're looking for a data scientist with a focus on computational biology, spatial transcriptomics, and deep learning.
+### 5. [**Trajectory Analysis of Cancer Stem Cells**](https://github.com/mokhtar200/Cancer-Stem-Cells-Trajectory-Inference-and-Pseudotime-Analysis)
+Implementation of Monocle3 for trajectory inference in cancer stem cells, highlighting the stemness signature and potential therapeutic targets.
 
 ---
 
-**"Let's decode the language of life through data."**
+## 🌍 **Connect with Me**
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ahmedmokhtar94)
+- 📧 [Email](ahmedmokhtar2800@gmail.com)
+- 🧑‍💻 [GitHub](https://github.com/mokhtar200)
+
+---
+
+## 📊 **GitHub Stats**
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mokhtar200&show_icons=true&theme=merko)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhtar200&layout=compact&theme=merko)
+
+---
+
+## 💼 **Collaboration & Opportunities**
+
+I am actively seeking opportunities for collaboration in bioinformatics, particularly in cancer genomics, spatial transcriptomics, and bioinformatics DevOps. Feel free to reach out if you are interested in working together on cutting-edge projects or need expertise in data analysis pipelines, machine learning models, or cloud-based bioinformatics solutions.
+
+---
+
+**"Harnessing the power of data to unlock the secrets of life."**
