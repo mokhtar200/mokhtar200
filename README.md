@@ -45,7 +45,7 @@ Analysis of spatial transcriptomics data to explore gene expression across tissu
 ## 🌍 Connect with Me
 
 - 🔗 **LinkedIn:** [Ahmed Mokhtar](https://www.linkedin.com/in/ahmedmokhtar94)
-- 📧 **Email:** [Your Email Address]
+- 📧 **Email:** [ahmedmokhtar2800@gmail.com]
 - 🧑‍💻 **GitHub:** [mokhtar200](https://github.com/mokhtar200)
 
 ---
