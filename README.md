@@ -7,11 +7,11 @@ I am an experienced bioinformatician with a strong focus on computational biolog
 
 ## 🔧 **Core Skills**
 
-- **Programming & Scripting Languages**: R, Python, Bash
+- **Programming & Scripting Languages**: R, Python, Bash, Scala
 - **Data Science & Analysis**: Differential Gene Expression, Pathway Enrichment, Gene Ontology, Clustering, Predictive Modeling
-- **Omics Technologies**: RNA-Seq (Single-cell, Bulk), Spatial Transcriptomics, Cancer Genomics, Multi-Omics Integration
-- **Bioinformatics Tools & Libraries**: Seurat, DESeq2, ggplot2, Monocle3, HISAT2, STAR, FeatureCounts
-- **Machine Learning & Deep Learning**: Random Forest, Classification, Neural Networks, Dimensionality Reduction (PCA, t-SNE, UMAP)
+- **Omics Technologies**: RNA-Seq (Single-cell, Bulk), Spatial Transcriptomics, Cancer Genomics, Multi-Omics Integration, Exome 
+- **Bioinformatics Tools & Libraries**: Seurat, DESeq2, ggplot2, Monocle3, HISAT2, Kallisto, Bowtie2, BWA, FeatureCounts
+- **Machine Learning & Deep Learning**: Random Forest, Classification, Neural Networks, Generative Models, Dimensionality Reduction (PCA, t-SNE, UMAP)
 - **Bioinformatics DevOps**: CI/CD Pipelines, Docker, Kubernetes, Cloud Computing (AWS, GCP), Automation
 - **Databases**: SQL, MongoDB
 - **Version Control & Collaboration**: Git, GitHub, GitLab
