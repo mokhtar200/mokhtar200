@@ -12,7 +12,7 @@ I am an experienced bioinformatician with a strong focus on computational biolog
 - **Omics Technologies**: RNA-Seq (Single-cell, Bulk), Spatial Transcriptomics, Cancer Genomics, Multi-Omics Integration, Exome, TCR 
 - **Bioinformatics Tools & Libraries**: Seurat, DESeq2, ggplot2, Monocle3, HISAT2, Kallisto, Bowtie2, BWA, FeatureCounts, MiXcr, TRUST4
 - **Machine Learning & Deep Learning**: Random Forest, Classification, Neural Networks, Generative Models, Dimensionality Reduction (PCA, t-SNE, UMAP)
-- **Bioinformatics DevOps**: CI/CD Pipelines, Docker, Kubernetes, Cloud Computing (AWS, GCP), Automation
+- **Bioinformatics DevOps**: CI/CD Pipelines, Docker, Kubernetes, Cloud Computing (AWS, GCP), Automation, Nextflow 
 - **Databases**: SQL, MongoDB
 - **Version Control & Collaboration**: Git, GitHub, GitLab
 
